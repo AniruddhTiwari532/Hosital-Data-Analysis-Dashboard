@@ -24,3 +24,35 @@
 
 ## Dashboard
 - <a href= "https://github.com/AniruddhTiwari532/Hosital-Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-05%20200839.png">View Dashboard</a>
+
+## Tools & Technologies Used 🛠
+
+Microsoft Excel – Data cleaning, processing, and visualization
+
+Charts & Graphs – For better insights and comparisons
+
+Interactive Dashboard – Designed for quick decision-making
+
+##Process 🔄
+
+The dashboard was created using a structured data analysis workflow to ensure accuracy and efficiency:
+
+### 1.Data Collection 📥
+
+Gathered patient emergency room data including demographics, wait times, admission status, and department referrals.
+
+### 2.Data Cleaning & Preparation 🧹
+
+Removed duplicates, handled missing values, and standardized data formats to ensure reliability.
+
+### 3.Data Analysis 📊
+
+Used Excel formulas, pivot tables, and statistical techniques to summarize key metrics and insights.
+
+### 4.Dashboard Design 🎨
+
+Designed an interactive, user-friendly dashboard with dynamic charts and graphs for better decision-making.
+
+### 5.Insights & Reporting 📑
+
+Generated actionable insights to help hospital administrators improve patient care and operational efficiency.
