@@ -33,26 +33,26 @@ Charts & Graphs – For better insights and comparisons
 
 Interactive Dashboard – Designed for quick decision-making
 
-##Process 🔄
+## Process 🔄
 
 The dashboard was created using a structured data analysis workflow to ensure accuracy and efficiency:
 
-### 1.Data Collection 📥
+#### 1.Data Collection 📥
 
 Gathered patient emergency room data including demographics, wait times, admission status, and department referrals.
 
-### 2.Data Cleaning & Preparation 🧹
+#### 2.Data Cleaning & Preparation 🧹
 
 Removed duplicates, handled missing values, and standardized data formats to ensure reliability.
 
-### 3.Data Analysis 📊
+#### 3.Data Analysis 📊
 
 Used Excel formulas, pivot tables, and statistical techniques to summarize key metrics and insights.
 
-### 4.Dashboard Design 🎨
+#### 4.Dashboard Design 🎨
 
 Designed an interactive, user-friendly dashboard with dynamic charts and graphs for better decision-making.
 
-### 5.Insights & Reporting 📑
+#### 5.Insights & Reporting 📑
 
 Generated actionable insights to help hospital administrators improve patient care and operational efficiency.
