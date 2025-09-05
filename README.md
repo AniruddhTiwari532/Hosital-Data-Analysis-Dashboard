@@ -21,3 +21,6 @@
 🏥 Department Referrals – Tracks patient referrals across various hospital departments.
 
 ⏳ Patient Attend Status – Differentiates between on-time and delayed attendances.
+
+## Dashboard
+- <a href= 
