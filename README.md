@@ -56,3 +56,6 @@ Designed an interactive, user-friendly dashboard with dynamic charts and graphs 
 #### 5.Insights & Reporting 📑
 
 Generated actionable insights to help hospital administrators improve patient care and operational efficiency.
+
+## Final Dashboard
+<img width="1391" height="633" alt="Screenshot 2025-09-05 200839" src="https://github.com/user-attachments/assets/e62b0ec3-3f01-4793-ad6b-13e82ae3ed1c" />
