@@ -23,4 +23,4 @@
 ⏳ Patient Attend Status – Differentiates between on-time and delayed attendances.
 
 ## Dashboard
-- <a href= "https://github.com/AniruddhTiwari532/Hosital-Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-05%20200839.png">Dashboard</a>
+- <a href= "https://github.com/AniruddhTiwari532/Hosital-Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-05%20200839.png">View Dashboard</a>
